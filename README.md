@@ -33,7 +33,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://imgur.com/6aE1vvf" title="Video Demo" alt="Video Demo" />
+<img src="https://imgur.com/6aE1vvf.gif" title="Video Demo" alt="Video Demo" />
 
 GIF created with **OBS Studio**
 
