@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://imgur.com/gallery/week2-zKRzjdO.gif" title='Video Demo' width='' alt='Video Demo' />
+<img src="https://imgur.com/a/zKRzjdO.gif" title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **OBS Studio**
 
@@ -63,5 +63,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
 
 
